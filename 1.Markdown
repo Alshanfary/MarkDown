@@ -1,4 +1,21 @@
 # Title
+
+Title
+-
+
 *test*
 **test**
 ***test***
+
+1. A
+	* one
+	- two
+	+ three
+2. B
+	1. One
+	2. Two
+	3. Three
+19. C
+
+> ster 
+> Markdown 101
